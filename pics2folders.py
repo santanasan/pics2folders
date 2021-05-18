@@ -7,8 +7,6 @@ Created on Thu Apr  9 06:31:40 2020
 
 import shutil
 import time
-from PIL import Image
-
 
 formats = ['psp', 'g3', 'ras', 'iff', 'lbm', 'biorad', 'mosaic', 'xbm',
            'xpm', 'gem-img', 'sgi', 'rle', 'wbmp', 'ttf', 'fits', 'pic',

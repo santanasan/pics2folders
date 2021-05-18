@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.pylint.d/pics2folders1.stats
+.pylint.d/pics2folders1.stats
+.pylint.d/pics2folders1.stats
